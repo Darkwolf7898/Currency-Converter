@@ -48,6 +48,21 @@ case '*':
     std::cout << "JPY: " << result << '\n';
     break;
 
+/* case '':
+    result = 0;
+    std::cout << ": " << result << '\n';
+    break;
+    
+case '':
+    result = 0;
+    std::cout << ": " << result << '\n';
+    break;
+    
+case '':
+    result = 0;
+    std::cout << ": " << result << '\n';
+    break;
+*/
 default:
     std::cout <<"Please pick a valid Currency. \n";
     break;
