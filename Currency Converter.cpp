@@ -8,7 +8,7 @@ double result2;
 double num1;
 double num2;
 char Currency;
-double num3 = 1.25;
+double num3 = 1.0756;
 
 int main(){
 
@@ -26,9 +26,8 @@ case '$':
 	break;
     		
 case '&':
-    result = num1 / num3;
-    result2 = num1 * result;
-    std::cout << "EUR: " << result2 << '\n';
+    result = num1 * num3;
+    std::cout << "EUR: " << result << '\n';
     break;
         		
 case '#':
