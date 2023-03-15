@@ -4,9 +4,7 @@
 #include <cmath>
 
 double result;
-double result2;
 double num1;
-double num2;
 char Currency;
 double EURExchange = 1.0756;
 double MXNExchange = 0.0537;
