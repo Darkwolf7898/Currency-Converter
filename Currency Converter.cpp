@@ -47,6 +47,10 @@ case '*':
     result = num1 * JPYExchange;
     std::cout << "JPY: " << result << '\n';
     break;
+
+default:
+    std::cout <<"Please pick a valid Currency. \n";
+    break;
 }
 
 return 0;
