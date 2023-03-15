@@ -1,4 +1,6 @@
-// This file converts currency
+/* Created 3/14/23
+plan on adding more to it soon.
+plan on updates so its accurate.*/
 
 #include <iostream>
 #include <cmath>
