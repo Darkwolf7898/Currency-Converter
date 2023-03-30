@@ -1,7 +1,12 @@
-# currency-converter
+All currency converters work.
 
-Working on adding new currencies to convert to.
+plan on adding more to it soon.
+plan on updates so its accurate.
 
-Everything should work now.
+change log:
 
-if you find any issues please let me know
+- 3/14/23 CurrencyConverter.cpp was created
+- 3/14/23 started working on Currency converter
+- 3/15/23 "Officail Release"
+
+- 3/30/23 Official Release, Added const.h
